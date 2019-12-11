@@ -19,7 +19,8 @@
   "nb_hits": 21730,
   "custom_settings": {
     "attributesForFaceting": [
-      "version"
+      "version",
+      "context"
     ]
   }
 }
